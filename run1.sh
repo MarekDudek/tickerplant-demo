@@ -1,7 +1,8 @@
 #!/bin/bash
 # run rdb demo
 
-D=~/q/start/tick
+#D=~/q/start/tick
+D=./tick
 #Q=~/q/l32/q
 Q=/home/marek/Development/kdb/kdb4/l64/q
 #cd ~/q/start/tick
