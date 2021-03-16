@@ -3,3 +3,10 @@ Sources
 https://github.com/KxSystems/cookbook/tree/master/start/tick
 
 	run.sh
+	run1.sh
+	tick/sym.q
+
+https://github.com/KxSystems/kdb-tick
+	
+	tick.q
+	tick/u.q

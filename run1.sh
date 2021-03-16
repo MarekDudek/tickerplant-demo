@@ -2,8 +2,9 @@
 # run rdb demo
 
 D=~/q/start/tick
-Q=~/q/l32/q
-cd ~/q/start/tick
+#Q=~/q/l32/q
+Q=/home/marek/Development/kdb/kdb4/l64/q
+#cd ~/q/start/tick
 
 # load each q process in a new terminal
 f() {
